@@ -1,7 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "Software Testing Terminologies"
+excerpt: "Important terms and terminologies in Software Testing<br/>"
+collection: testing-mindspace
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+* Testing : Validating and verifying whether the software is behaving as per the requirement or not.
+* Functional Testing : Verifying whether the software is functioning properly or not.
+* Smoke Testing : Also known as build verification testing in which we ensure that build is stable or not. 
+* Sanity Testing : Validating and verifying whether the software is behaving as per the requirement or not.
+* Regression Testing : Verifying whether the software is functioning properly or not.
+* Integration Testing : Also known as build verification testing in which we ensure that build is stable or not. 
