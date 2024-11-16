@@ -11,17 +11,17 @@ main:
  # - title: "Talks"
   ##  url: /talks/    
 
-  - title: "Teaching"
+  - title: "Testing Musings"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Testing Mindspace"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+  ##  url: /year-archive/
     
   - title: "CV"
-    url: files/Ujjwal_Kumar_Singh_3_Years_Experience_QA_Resume.pdf
+    url: /files/Ujjwal_Kumar_Singh_3_Years_Experience_QA_Resume.pdf
     
  # - title: "Guide"
   ##  url: /markdown/
