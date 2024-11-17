@@ -1,6 +1,6 @@
 ---
 title: "In-Progress Projects"
-collection: publications
+collection: projects
 category: manuscripts
 permalink: /projects/in-progress-projects
 excerpt: 'In-progress Automation projects which are currently in the development phase.'

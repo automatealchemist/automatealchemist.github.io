@@ -1,6 +1,6 @@
 ---
 title: "OrangeHRM Live Through PyTest Framework Using POM"
-collection: publications
+collection: projects
 category: manuscripts
 permalink: /projects/orangehrm-live-project
 excerpt: 'This Github Repo contains code for Automation of OrangeHRM Live Website which is a web application for HR Management.'
