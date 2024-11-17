@@ -2,7 +2,7 @@
 title: "In-Progress Projects"
 collection: publications
 category: manuscripts
-permalink: /publication/in-progress-projects
+permalink: /projects/in-progress-projects
 excerpt: 'In-progress Automation projects which are currently in the development phase.'
 date: 2015-10-01
 venue: 'Journal 1'
