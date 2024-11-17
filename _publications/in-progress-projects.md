@@ -1,7 +1,7 @@
 ---
 title: "In-Progress Projects"
 collection: publications
-#category: Automation
+category: Automation
 permalink: /publication/in-progress-projects
 excerpt: 'Some of the in-progress automation framework projects currently in the development phase'
 date: 2015-10-01
