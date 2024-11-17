@@ -4,7 +4,7 @@ collection: projects
 category: manuscripts
 permalink: /projects/in-progress-projects
 excerpt: 'In-progress Automation projects which are currently in the development phase.'
-date: 2015-10-01
+date: 2024-10-01
 venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'

@@ -4,7 +4,7 @@ collection: testing-musings
 type: "Undergraduate course"
 permalink: /testing-musings/an-unexpected-bug
 venue: "University 1, Department"
-date: 2014-01-01
+date: 2024-10-10
 location: "City, Country"
 ---
 
