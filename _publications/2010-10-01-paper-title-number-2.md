@@ -2,7 +2,7 @@
 title: "OrangeHRM Live Through PyTest Framework Using POM"
 collection: publications
 category: Automation
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This project is about automating a HR Management Website OpenHRMLive using POM Design Approach & Pytest Framework.'
 date: 2024-10-01
 venue: 'Journal 1'
