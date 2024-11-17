@@ -12,10 +12,10 @@ main:
   ##  url: /talks/    
 
   - title: "Testing Musings"
-    url: /teaching/    
+    url: /testing-musings/    
     
   - title: "Testing Mindspace"
-    url: /portfolio/
+    url: /testing-mindspace/
         
   #- title: "Blog Posts"
   ##  url: /year-archive/
