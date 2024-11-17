@@ -2,7 +2,7 @@
 title: "Unconditional Update Which Brings The Server Down "
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/unconditional-update
 venue: "University 1, Department"
 date: 2015-01-01
 location: "City, Country"

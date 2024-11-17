@@ -2,7 +2,7 @@
 title: "OrangeHRM Live Through PyTest Framework Using POM"
 collection: publications
 category: manuscripts
-permalink: /publication/upcoming-projects
+permalink: /publication/orangehrm-live-project
 excerpt: 'A few upcoming projects currently in the automation framework development phase.'
 date: 2024-10-01
 venue: 'Journal 1'

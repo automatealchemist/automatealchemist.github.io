@@ -1,8 +1,8 @@
 ---
 title: "Upcoming Projects"
 collection: publications
-category: manuscripts
-permalink: /publication/open-hrm-live-project
+category: Automation
+permalink: /publication/in-progress-projects
 excerpt: 'A few upcoming projects currently in the automation framework development phase.'
 date: 2015-10-01
 venue: 'Journal 2'
