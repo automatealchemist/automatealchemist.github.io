@@ -2,8 +2,8 @@
 title: "In-Progress Projects"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-1
-excerpt: 'A few upcoming projects currently in the automation framework development phase.'
+permalink: /publication/in-progress-projects
+excerpt: 'In-progress Automation projects which are currently in the development phase.'
 date: 2015-10-01
 venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
