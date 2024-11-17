@@ -1,9 +1,9 @@
 ---
-title: "Upcoming Projects"
+title: "In-Progress Projects"
 collection: publications
 category: Automation
 permalink: /publication/in-progress-projects
-excerpt: 'A few upcoming projects currently in the automation framework development phase.'
+excerpt: 'Some of the in-progress automation framework projects currently in the development phase'
 date: 2015-10-01
 venue: 'Journal 2'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
