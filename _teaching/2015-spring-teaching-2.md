@@ -1,11 +1,11 @@
 ---
-title: "Unconditional Update Which Brings The Server Down "
+title: "Unconditional Update That Brings The Server Down "
 collection: testing-musings
-type: "Workshop"
+type: "Database"
 permalink: /testing-musings/unconditional-update
-venue: "University 1, Department"
+venue: "Testing"
 date: 2024-01-01
-location: "City, Country"
+location: "City"
 ---
 
 

@@ -1,11 +1,11 @@
 ---
 title: "An Uninvited Guest in the Diwali Party "
 collection: testing-musings
-type: "Undergraduate course"
+type: "Pairwise Testing"
 permalink: /testing-musings/an-unexpected-bug
-venue: "University 1, Department"
+venue: "Bug"
 date: 2024-10-10
-location: "City, Country"
+location: "City"
 ---
 
 **An Unexpected Bug Attended Diwali Party**
