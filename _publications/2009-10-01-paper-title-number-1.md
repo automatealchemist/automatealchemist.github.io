@@ -1,10 +1,10 @@
 ---
-title: "Upcoming Projects"
+title: "OrangeHRM Live Through PyTest Framework Using POM"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'A few upcoming projects currently in the automation framework development phase.'
-date: 2015-10-01
+date: 2024-10-01
 venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
@@ -12,17 +12,8 @@ venue: 'Journal 1'
 ---
 
 
-A few upcoming projects currently in the automation framework development phase:
+This github repository contains automation code of OrangeHRM Live Website Using Selenium and Python Through Pytest Framework. This framework contains all the essential components like POM, Reporting, Logging, Markers, Fixtures,etc.
 
-BDD Automation Framework Implementation Using Selenium, Python, and Page Object Model (POM)
-======
-<img src='/images/coming_soon.png' width="600" height="400">
+[Github Repo Link](https://github.com/AutomationNexus/Orange_HRM_Automation_Framework){:target="_blank" rel="noopener noreferrer"}
 
-BDD Automation Framework with Rest Assured, Selenium, and Python
-======
-<img src='/images/coming_soon.png' width="600" height="400">
-
-
-Mobile Application Automation with Appium and Python
-======
-<img src='/images/coming_soon.png' width="600" height="400">
+<img src='/images/orange-hrm.jpg'>
