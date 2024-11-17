@@ -1,8 +1,8 @@
 ---
 title: "Unconditional Update Which Brings The Server Down "
-collection: teaching
+collection: testing-musings
 type: "Workshop"
-permalink: /teaching/unconditional-update
+permalink: /testing-musings/unconditional-update
 venue: "University 1, Department"
 date: 2015-01-01
 location: "City, Country"

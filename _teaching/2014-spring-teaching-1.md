@@ -1,8 +1,8 @@
 ---
 title: "An Uninvited Guest in the Diwali Party "
-collection: teaching
+collection: testing-musings
 type: "Undergraduate course"
-permalink: /teaching/an-unexpected-bug
+permalink: /testing-musings/an-unexpected-bug
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
