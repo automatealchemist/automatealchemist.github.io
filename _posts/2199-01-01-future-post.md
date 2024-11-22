@@ -1,11 +1,11 @@
 ---
 title: 'IKIGAI - The Japanese Secret to a Long & Happy Life'
 date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2012/08/ikigai/
 tags:
   - cool posts
   - category1
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+This book written by Hector Gargia & Francesec Miralles highlights the secret of lifestyle of Japanese people which leads to longetivity in life span. It also mention how to live happy.
