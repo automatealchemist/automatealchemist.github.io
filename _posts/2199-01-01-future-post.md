@@ -1,6 +1,6 @@
 ---
 title: 'IKIGAI - The Japanese Secret to a Long & Happy Life'
-date: 2199-01-01
+date: 2024-01-01
 permalink: /posts/2024/08/ikigai/
 tags:
   - cool posts
