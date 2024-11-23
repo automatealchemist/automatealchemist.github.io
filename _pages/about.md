@@ -7,24 +7,27 @@ redirect_from:
   - /about.html
 ---
 
+<b>
+👋 Who am I?</b>
 
+* Name: Ujjwal Kumar Singh
+* Role: Experienced Software Tester with 3 years in the field, focused on delivering exceptional quality for both mobile and web applications.
+* Goal: Passionate about enhancing software reliability and user experience through thorough testing and automation.
 
+<b>
+🔧 Key Skills </b>
 
-👋 Who Am I?
+* API Testing: Expertise in Rest Assured with BDD, creating robust, scalable test scripts.
+* Automation: Proficient in Selenium & Python, streamlining workflows to reduce errors and improve efficiency.
+* Skilled in Postman, JIRA, Git, Swagger.
+* Certification: ISTQB Certified (2023).
 
-* Experienced Software Tester with a focus on mobile and web apps.
-* 3 years of improving quality and user experience.
-* 🔧 Expertise & Tools
+<b>🏅 Achievements </b>
 
-* Specialized in API Testing (Rest Assured, BDD).
-* Proficient in Selenium and Python automation.
-* Well-versed in tools like Postman, JIRA, Git, and Swagger.
+* Awarded Best QA Master for outstanding performance and maintaining high standards at Copper Mobile.
+* Bugathon Champion at Studio Graphene, identifying the most valid bugs in a single day.
 
+</b>📢 Community Engagement</b>
 
-🏅 Career Milestones
-* ISTQB Certified (2023).
-* Awarded Best QA Master and Bugathon Champion.
-
-📢 Community Contributions
-  * Contributor to Ministry of Testing.
-  * Active YouTube and Medium content creator focused on QA.
+* Active Ministry of Testing contributor, sharing insights and best practices.
+* Creator of QA content on YouTube and Medium, offering tips and tutorials on automation and testing skills.
