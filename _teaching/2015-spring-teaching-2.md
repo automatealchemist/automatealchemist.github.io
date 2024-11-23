@@ -9,6 +9,5 @@ location: "City"
 ---
 
 
-This page is under construction.
-======
 
+Under construction: A story in words, in the making!

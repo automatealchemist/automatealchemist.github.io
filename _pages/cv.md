@@ -48,19 +48,19 @@ Skeps (Jun. 2024 - Present)
 Skills
 ======
 * <b>Technical Skills</b>
- *  UI Automation Testing
- *  Functional & API Testing
- *  White Box Testing
+  *  UI Automation Testing
+  *  Functional & API Testing
+  *  White Box Testing
 
 * <b>Soft Skills</b>
- *  Critical Thinking
- *  Client Handling
- *  QA Documentation
+  *  Critical Thinking
+  *  Client Handling
+  *  QA Documentation
 
 * <b>Tools & Frameworks</b>
- * <b>Automation & Testing:</b> Selenium, Pytest, BDD
- * <b>Programming & Scripting:</b> Python
- * <b>Version Control & CI/CD:</b> Git, Jenkins & Docker
+  * <b>Automation & Testing:</b> Selenium, Pytest, BDD
+  * <b>Programming & Scripting:</b> Python
+  * <b>Version Control & CI/CD:</b> Git, Jenkins & Docker
 
 <a href="/files/Ujjwal_Kumar_Singh_3_Years_Experience_QA_Resume.pdf" download>Download Resume</a>
 
