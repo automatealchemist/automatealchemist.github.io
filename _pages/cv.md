@@ -34,7 +34,7 @@ Copper Mobile Pvt. Ltd. (Dec. 2021 - Feb. 2023)
 <b>Analyst - </b>
 Studiographene (Mar. 2023 - Jun. 2024)
 
-* Contributed to creating test plans, test cases, and defect reports, streamlining the QA process.
+* Contributed to creating of test plans, test cases, and defect reports, streamlining the QA process.
 * Executed functional, API, and regression testing for web and mobile applications to ensure quality standards.
 * Monitored and reported quality KPIs, providing actionable insights to stakeholders.
 
