@@ -58,3 +58,23 @@ Since April 2024, I have been an active member of the **Ministry Of Testing**, a
 Content Creation & Writing
 ======
 I have a long-standing passion for writing, which has evolved over the years to focus on content that benefits other software testers. My articles and posts, primarily shared on LinkedIn and Medium, delve into practical testing strategies and my personal experiences within the QA field. Recently, I also started a YouTube channel where I create and upload videos dedicated to software testing, with a primary focus on enhancing testing skills and knowledge.
+
+
+👋 Who Am I?
+
+Experienced Software Tester with a focus on mobile and web apps.
+3 years of improving quality and user experience.
+🔧 Expertise & Tools
+
+Specialized in API Testing (Rest Assured, BDD).
+Proficient in Selenium and Python automation.
+Well-versed in tools like Postman, JIRA, Git, and Swagger.
+
+
+🏅 Career Milestones
+ISTQB Certified (2023).
+Awarded Best QA Master and Bugathon Champion.
+
+📢 Community Contributions
+Contributor to Ministry of Testing.
+Active YouTube and Medium content creator focused on QA.
