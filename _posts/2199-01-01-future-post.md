@@ -1,7 +1,7 @@
 ---
 title: 'IKIGAI - The Japanese Secret to a Long & Happy Life'
 date: 2016-04-01
-permalink: /books/2024/08/ikigai/
+permalink: /posts/2024/08/ikigai/
 tags:
   - Books
   - Self-Help
