@@ -11,8 +11,8 @@ redirect_from:
 👋 Who am I?</b>
 
 * Name: Ujjwal Kumar Singh
-* Role: Experienced Software Tester with 3 years in the field, focused on delivering exceptional quality for both mobile and web applications.
-* Goal: Passionate about enhancing software reliability and user experience through thorough testing and automation.
+* Role: A Software Tester with 3 years in the testing field, focused on delivering exceptional quality for both mobile and web applications.
+* Goal: Elevating software reliability and user satisfaction by solving complex challenges with innovative testing strategies and automation.
 
 <b>
 🔧 Key Skills </b>
@@ -25,9 +25,10 @@ redirect_from:
 <b>🏅 Achievements </b>
 
 * Awarded Best QA Master for outstanding performance and maintaining high standards at Copper Mobile.
+* Awarded Call Of Duty Award for 
 * Bugathon Champion at Studio Graphene, identifying the most valid bugs in a single day.
 
-</b>📢 Community Engagement</b>
+<b>📢 Community Engagement</b>
 
 * Active Ministry of Testing contributor, sharing insights and best practices.
 * Creator of QA content on YouTube and Medium, offering tips and tutorials on automation and testing skills.
