@@ -1,7 +1,7 @@
 ---
 title: 'A History of Brief Time'
 date: 1988-04-01
-permalink: /posts/2024/08/a-history-of-brief-time/
+permalink: /books/2024/08/a-history-of-brief-time/
 tags:
   - Books
   - Science

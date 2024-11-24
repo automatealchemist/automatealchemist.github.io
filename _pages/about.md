@@ -32,3 +32,6 @@ redirect_from:
 
 * Active Ministry of Testing contributor, sharing insights and best practices.
 * Creator of QA content on YouTube and Medium, offering tips and tutorials on automation and testing skills.
+
+<b>🚀 Contributed to Open Source Projects</b>
+Actively contribute to various open-source projects by adding new features, improving existing ones, and collaborating with global communities to enhance software quality and functionality.

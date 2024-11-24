@@ -1,7 +1,7 @@
 ---
 title: 'Lessons in Chemistry'
 date: 2022-04-05
-permalink: /posts/2024/10/lessons-in-chemistry/
+permalink: /books/2024/10/lessons-in-chemistry/
 tags:
   - Books
   - Fiction
