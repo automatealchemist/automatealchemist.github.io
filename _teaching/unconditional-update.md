@@ -8,7 +8,8 @@ date: 2024-01-01
 location: "City"
 ---
 
-Why Updating with a Condition is Important
+**Why Updating with a Condition is Important**
+
 A few months ago, while testing a critical feature, our testing team ran into an issue that required updating some user data in the database. Since the feature was crucial and the testing couldn’t be delayed, we decided to handle it ourselves. Unfortunately, none of the developers responsible for the module were available at the time. So, I took the initiative to update the data myself.
 
 The Start

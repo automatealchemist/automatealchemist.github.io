@@ -6,11 +6,28 @@ author_profile: true
 ---
 
 
+
+<b>Date: 24th November 2024</b>
+
+* Learning: I learned some new HTML5 tags and created some mindmaps. 
+
+* Description: As it was Sunday so I decided to invest my time in something productive. As some of the topics for my portfolio website were in pending so I decided to complete them. One of the task was to add some element in list and making the text bold, along with that align them too, so while adjusting those text I learned some of the HTML5 tags. 
+
+Along with that there were mindmaps pending for some of the topics for my portifolio website so I completed them and added them in my webiste.
+
+* Key Takeaway: Mindmaps are excellent form of creating note, they can be visualized easily, they can be shared easily and most importantly they can be explained easily.
+
+* Personal Reflection: I have been always fond of creating notes, however so far I have been creating notes only in traditional way on notebook, however moving away from traditional approach I decided to shift to mind maps as they would not only reduce time that is being consumed while creating notes but it is more handy and comfortable.
+
+
 <b>Date: 23rd November 2024</b>
 
 * Learning: I read a few pages of the book Ye Meri Ghazalein, Ye Meri Nazmein.
+
 * Description: Continuing my reading journey, I explored a few pages of Ahmad Faraz's poetry collection. His evocative verses helped me think about the interplay between emotions and language, especially the subtle way he portrays human experiences.
+
 * Key Takeaway: Books are an excellent way to spend time and explore different perspectives. Ahmad Faraz’s poetic style offers deep insights into the complexity of human emotions.
+
 * Personal Reflection: Reading poetry, especially from a poet like Ahmad Faraz, reinforces my belief in the power of words. It encourages me to reflect on how I use language in my daily life and in my professional work. Just as Faraz conveys intricate emotions with a few well-chosen words, I hope to improve my ability to communicate concisely and meaningfully in both personal and professional contexts.
 
 
