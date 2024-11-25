@@ -25,7 +25,7 @@ redirect_from:
 <b>🏅 Achievements </b>
 
 * Awarded Best QA Master for outstanding performance and maintaining high standards at Copper Mobile.
-* Awarded Call Of Duty Award for 
+* Awarded Call Of Duty Award for Outstanding Performance Beyond Duty
 * Bugathon Champion at Studio Graphene, identifying the most valid bugs in a single day.
 
 <b>📢 Community Engagement</b>
@@ -33,5 +33,6 @@ redirect_from:
 * Active Ministry of Testing contributor, sharing insights and best practices.
 * Creator of QA content on YouTube and Medium, offering tips and tutorials on automation and testing skills.
 
-<b>🚀 Contributed to Open Source Projects</b>
+<b>🚀 Contribution to Open Source Projects</b>
+
 Actively contribute to various open-source projects by adding new features, improving existing ones, and collaborating with global communities to enhance software quality and functionality.
